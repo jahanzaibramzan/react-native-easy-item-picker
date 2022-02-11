@@ -1,6 +1,8 @@
 
 # react-native-easy-item-picker
 
+A simple React Native module purely written in javascript that allows you to show a PickerView to select an item from a list of options for both Android and iOS.
+
 ## Getting started
 
 `$ npm install react-native-easy-item-picker --save`
@@ -46,7 +48,7 @@ const mOptions = [
 
 	<MyPicker
         title={"Select a link"}
-        noSelectionTxt={"Select alink"}
+        noSelectionTxt={"Select a link"}
 
         selectedColor={"#000"}
         unSelectedColor={"#999"}

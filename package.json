@@ -1,17 +1,30 @@
 {
   "name": "react-native-easy-item-picker",
-  "version": "1.0.5",
-  "description": "",
+  "version": "1.0.6",
+  "description": "A simple React Native module purely written in javascript that allows you to show a PickerView to select an item from a list of options for both Android and iOS.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "android",
+    "ios",
+    "react",
+    "native",
+    "easy",
+    "item",
+    "picker",
+    "spinner"
   ],
   "author": "Jahanzaib Ramzan",
+  "homepage": "https://github.com/jahanzaibramzan/react-native-easy-item-picker",
   "license": "MIT",
   "peerDependencies": {
     "react-native": ">=0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jahanzaibramzan/react-native-easy-item-picker.git"
   }
 }
