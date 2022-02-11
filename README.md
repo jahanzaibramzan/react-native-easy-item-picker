@@ -45,7 +45,7 @@ const mOptions = [
 ]
 
 	<MyPicker
-        title={"Select alink"}
+        title={"Select a link"}
         noSelectionTxt={"Select alink"}
 
         selectedColor={"#000"}
