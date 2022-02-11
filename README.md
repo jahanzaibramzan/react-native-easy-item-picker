@@ -3,6 +3,11 @@
 
 A simple React Native module purely written in javascript that allows you to show a PickerView to select an item from a list of options for both Android and iOS.
 
+![alt text](https://github.com/jahanzaibramzan/react-native-easy-item-picker/blob/master/demo/screenshots/img1.jpg?raw=true)
+
+![alt text](https://github.com/jahanzaibramzan/react-native-easy-item-picker/blob/master/demo/screenshots/img2.jpg?raw=true)
+
+
 ## Getting started
 
 `$ npm install react-native-easy-item-picker --save`
