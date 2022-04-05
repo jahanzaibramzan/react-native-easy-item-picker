@@ -32,7 +32,8 @@ const MyPicker = ({
 
                 <View style={{
                     backgroundColor: "#fff", padding: 15, borderRadius: 20,
-                    borderWidth: 0.75, borderColor: "#ccc", margin: 10
+                    borderWidth: 0.75, borderColor: "#ccc", margin: 10,
+                    margin: 30, maxHeight: "90%"
                 }}>
 
                     <Text style={{
